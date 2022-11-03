@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>467427239937-ij5cqu16h1sns26jj28663n2e8d43b4a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.467427239937-ij5cqu16h1sns26jj28663n2e8d43b4a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>467427239937-vbvfqfe1pp80nmhffvjtbcjqckv82pnu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDatz1n0w92qOhSKqk-J37k4qPiJ1RV5R8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>467427239937</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.test.tudushka</string>
+	<key>PROJECT_ID</key>
+	<string>tudushka-cfa73</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tudushka-cfa73.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:467427239937:ios:4971ba06fdc2e698a0b800</string>
+</dict>
+</plist>

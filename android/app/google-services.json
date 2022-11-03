@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "467427239937",
+    "project_id": "tudushka-cfa73",
+    "storage_bucket": "tudushka-cfa73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467427239937:android:4efd94ab347b0028a0b800",
+        "android_client_info": {
+          "package_name": "com.test.tudushka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467427239937-vbvfqfe1pp80nmhffvjtbcjqckv82pnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.tudushka",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "467427239937-obp1pskcln8avu0m9rjs7o336lsqdg47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJTuaa3_uWHdgh5UEVrtHiXrpvYMTiNo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467427239937-obp1pskcln8avu0m9rjs7o336lsqdg47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467427239937-ij5cqu16h1sns26jj28663n2e8d43b4a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.test.tudushka"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
